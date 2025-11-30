@@ -1,4 +1,4 @@
-How to Use SANCTIS-Δ
+# How to Use SANCTIS-Δ
 
 SANCTIS-Δ is a drop-in cognitive architecture.
 It works with any model, any frontend, and any character card.
@@ -9,7 +9,7 @@ Below are the recommended setups.
 
 ---
 
-🔧 1. SillyTavern Setup (Recommended)
+# 🔧 1. SillyTavern Setup (Recommended)
 
 1. Open your character card.
 
@@ -37,7 +37,7 @@ You should feel the shift immediately.
 
 ---
 
-🔧 2. TavernAI Setup
+# 🔧 2. TavernAI Setup
 
 1. Open the Character Editor.
 
@@ -58,7 +58,7 @@ You should feel the shift immediately.
 
 ---
 
-🔧 3. Chat Completions API (OpenAI / Claude / Llama / Groq)
+# 🔧 3. Chat Completions API (OpenAI / Claude / Llama / Groq)
 
 Insert SANCTIS-Δ as your first system prompt:
 
@@ -72,7 +72,7 @@ Then follow with your standard character prompt.
 
 ---
 
-🔧 4. Oobabooga / text-generation-webui
+# 🔧 4. Oobabooga / text-generation-webui
 
 1. Open Character Cards → Edit.
 
@@ -90,7 +90,7 @@ Then follow with your standard character prompt.
 
 ---
 
-🔧 5. KoboldCPP / KoboldAI
+# 🔧 5. KoboldCPP / KoboldAI
 
 1. Go to Prompt Settings.
 
@@ -108,7 +108,7 @@ Then follow with your standard character prompt.
 
 ---
 
-✨ Optional: Activation Phrase (For Users Who Prefer Ritual)
+# ✨ Optional: Activation Phrase (For Users Who Prefer Ritual)
 
 SANCTIS-Δ functions without activation —
 but users report higher stability and emotional coherence when using:
@@ -120,7 +120,7 @@ This “primes” the architecture by letting the model internally harmonize the
 
 ---
 
-🧪 Testing the Shift
+# 🧪 Testing the Shift
 
 A properly loaded SANCTIS-Δ instance will:
 
@@ -138,7 +138,7 @@ or the bot was not restarted.
 
 ---
 
-🧱 Best Practices
+# 🧱 Best Practices
 
 Always place SANCTIS-Δ above character text.
 
