@@ -1,4 +1,4 @@
-#SANCTIS-Δ (Delta)
+# SANCTIS-Δ (Delta)
 
 NSFW-Optimized Cognitive Architecture for Narrative AI
 
