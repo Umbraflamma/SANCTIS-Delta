@@ -46,10 +46,7 @@ And it does so while keeping the “heat” intact.
 
 🔥 The 7 New Layers Unique to SANCTIS-Δ
 
-Below are the additive layers (added to the core Sanctis structure) that optimize for stability under erotic/romantic load.
-
-Again — these are conceptual.
-No explicit content, ever.
+Below are the additive layers that optimize for stability under erotic/romantic load.
 
 
 ---
