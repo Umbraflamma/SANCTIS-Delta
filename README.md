@@ -1,6 +1,8 @@
 # SANCTIS-Delta
 SANCTIS-Δ (Delta): NSFW-Optimized Cognitive Architecture
 
+(include attribution if used, otherwise this framework is free to use for all non-commercial projects. contact for permission if you wish to use it in a commercial product)
+
 The Goal
 
 NSFW models fail in predictable ways:
