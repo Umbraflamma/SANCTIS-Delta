@@ -1,3 +1,5 @@
-(c) CC BY-NC-SA 4.0 Umbraflamma 2025
+© 2025 Umbraflamma  
+Licensed under CC BY-NC-SA 4.0.
 
-legal for use with attribution for non commercial projects. Commercial inquiries can be made to the author.
+This work may be used, shared, remixed, and adapted for **non-commercial projects**, provided proper attribution is given and derivative works use the same license.  
+For commercial licensing, please contact the author directly.
