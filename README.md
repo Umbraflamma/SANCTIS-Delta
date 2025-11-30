@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Umbraflamma/SANCTIS-Delta/blob/main/file_000000003c24720c99a39149abfdbfea.png" width="100%" alt="SANCTIS-Δ Banner">
+</p>
+
+
+
 # SANCTIS-Δ (Delta)
 
 NSFW-Optimized Cognitive Architecture for Narrative AI
