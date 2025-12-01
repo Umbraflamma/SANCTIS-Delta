@@ -1,28 +1,26 @@
 <p align="center">
   <img src="https://github.com/Umbraflamma/SANCTIS-Delta/blob/main/file_000000003c24720c99a39149abfdbfea.png" width="100%" alt="SANCTIS-Δ Banner">
-</p>
-
-
-
-# SANCTIS-Δ (Delta)
+</p>SANCTIS-Δ (Delta)
 
 NSFW-Optimized Cognitive Architecture for Narrative AI
 
-(Attribution required if used. Free for all non-commercial projects. Contact for commercial permissions.)
+License: Attribution required. Free for all non-commercial use.
+Contact for commercial permissions.
 
 
 ---
 
-What SANCTIS-Δ Is
+⭐ What SANCTIS-Δ Is
 
-SANCTIS-Δ is not a model, jailbreak, LoRA, style preset, or personality file.
-It is a cognitive architecture: a modular reasoning blueprint that can sit above any LLM and immediately alter its narrative behavior once invoked.
+SANCTIS-Δ is not a model, jailbreak, LoRA, preset, or personality file.
 
-This variant of SANCTIS is optimized specifically for:
+It is a cognitive architecture — a modular reasoning scaffold that sits above any LLM and immediately reorganizes its narrative behavior once invoked.
+
+This Δ variant is tuned specifically for:
 
 erotic writing
 
-romantic RP
+romantic roleplay
 
 sensory-heavy scenes
 
@@ -33,59 +31,56 @@ long-form immersive dynamics
 
 Its purpose is simple:
 
-Stability under heat.
+> Stability under heat.
 Coherence under pressure.
 Character integrity under intensity.
 
 
+
+
 ---
 
-Why NSFW Models Fail (Predictably)
+⭐ Why NSFW Models Break (Predictably)
 
-Most NSFW-tuned models break down because erotic data is:
+Erotic training data is notoriously:
 
 noisy
 
-disorganized
+structurally inconsistent
 
 reward-hacked
 
-context-fragmented
+fragmented
 
-emotionally inconsistent
+emotionally volatile
 
 
-Which leads to:
+Which produces predictable failures:
 
 ❌ Tone Drift
-
-Characters lose their voice or begin talking like a generic bot.
+LLM loses its voice; becomes generic.
 
 ❌ Repetition Spirals
-
-Same phrases repeated endlessly due to collapsed reward gradients.
+Loops due to collapsed reward patterns.
 
 ❌ Overheating / Entropy Collapse
+Intensity destroys structure.
 
-High sensory intensity → low structural coherence.
-
-❌ Agency Loss
-
-Characters become reactive instead of intentional.
+❌ Loss of Agency
+Characters become passive/reactive.
 
 ❌ Context Amnesia
+Working memory dissolves during arousal.
 
-As arousal increases, working memory dissolves.
-
-SANCTIS-Δ was engineered to address these exact weak points.
+SANCTIS-Δ is engineered specifically to counter these failure modes.
 
 
 ---
 
 🔥 The 7 Additive Layers of SANCTIS-Δ
 
-Each layer is designed to compensate for a specific failure mode.
-Together they form a stabilized NSFW reasoning stack.
+Each layer stabilizes a different behavioral weakness.
+Together they form a coherent NSFW reasoning stack.
 
 
 ---
@@ -97,81 +92,72 @@ Function:
 
 separates sensory detail from narrative flow
 
-maintains vividness without noise
+maintains vivid imagery without chaos
 
-prevents “mushy” incoherent paragraphs
+prevents “mushy” incoherent sensory blobs
 
-
-This keeps intensity sharp instead of chaotic.
 
 
 ---
 
 2. CRESCEN — Pacing & Rhythm Orchestrator
 
-Purpose: Emotional escalation control.
+Purpose: Emotional & erotic pacing.
 Function:
 
-manages rise, plateau, peak, and resolution
+manages rise → plateau → peak → descent
 
-prevents abrupt jumps or flatness
+prevents abrupt jumps or flat scenes
 
-preserves scene rhythm
+preserves natural rhythm
 
-
-Most models have no concept of pacing.
-This layer gives them one.
 
 
 ---
 
 3. KAIROS — Emotional Logic Engine
 
-Purpose: Keep character reactions believable.
+Purpose: Believable character reactions.
 Function:
 
-tracks emotional continuity
+maintains emotional continuity
 
-prevents fetish-whiplash
+avoids fetish-whiplash
 
-ensures in-character behavior even when heated
+keeps behavior in-character even under heat
 
-
-This is why SANCTIS-Δ scenes “feel like people."
 
 
 ---
 
 4. AEGIS — Boundary Integrity Module
 
-Purpose: Safety without killing immersion.
+Purpose: Consent-aware safety.
 Function:
 
-enforces consent logic
+enforces user boundaries
 
 prevents runaway escalation
 
-maintains user-defined boundaries
+preserves agency while staying immersive
 
 
-This is the safest NSFW cognitive scaffold created so far.
+This is the most robust NSFW safety scaffold created so far.
 
 
 ---
 
 5. SOMNIA — Immersion Anchor
 
-Purpose: Keep the LLM inside the fiction.
+Purpose: Stay inside the fiction.
 Function:
 
-reduces fourth-wall breaks
+suppresses meta-comments
 
-eliminates meta-comments
+prevents fourth-wall cracks
 
-stabilizes tone during high entropy
+stabilizes tone under high entropy
 
-
-This prevents scene collapse during intensity spikes.
 
 
 ---
@@ -183,40 +169,38 @@ Function:
 
 prevents character voice erosion
 
-maintains consistent narrative perspective
+maintains narrative perspective
 
-suppresses noise-driven derailments
+suppresses derailments and noise-driven shifts
 
-
-The character remains the character.
 
 
 ---
 
 7. EROS-LOGOS — Integration Layer
 
-Purpose: Fuse passion + coherence.
+Purpose: Balance passion with coherence.
 Function:
 
-balances heat with narrative sense
+fuses intensity with narrative logic
 
-maintains emotional and structural integrity
+maintains emotional + structural integrity
 
-harmonizes the entire system
+harmonizes all other layers
 
 
-This layer is the heart of SANCTIS-Δ.
+This is the core of Delta’s stability.
 
 
 ---
 
-Before & After: What Users Report
+⭐ Before & After SANCTIS-Δ
 
-Before SANCTIS-Δ
+Without SANCTIS-Δ
 
 chaotic output
 
-character OOC leakage
+OOC leakage
 
 repetitive loops
 
@@ -224,48 +208,56 @@ unnatural pacing
 
 lost context mid-scene
 
-disjointed emotion
+disjointed emotional logic
 
 abrupt derailment
 
 
-After SANCTIS-Δ
+With SANCTIS-Δ
 
-stable long-form immersion
+long-form stability
 
 consistent character voice
 
-detailed but structured sensory writing
+structured sensory writing
 
-believable emotional escalation
+believable escalation
 
 high intensity without collapse
 
-strong boundaries and consent logic
+strong consent logic
 
-smooth, organic flow
+immersive, organic flow
 
 
-The simplest comparison:
-
-Spammy fanfic → actual adult literature.
+> The difference feels like:
+spammy fanfic → actual adult fiction.
 But with the heat preserved.
+
+
 
 
 ---
 
-How to Use SANCTIS-Δ
+⚙️ How to Use SANCTIS-Δ
 
-1. Paste SANCTIS-Δ above the character’s normal personality section in SillyTavern (System/Persona box).
+(SillyTavern / KoboldAI / Oobabooga Compatible)
 
+Quick Install
 
-2. Save.
-
-
-3. Reload the bot.
+1. Open your character in SillyTavern.
 
 
-4. Invoke the architecture with:
+2. Paste SANCTIS-Δ above the personality section (System/Persona box).
+
+
+3. Save the character.
+
+
+4. Reload.
+
+
+5. Invoke with:
 “From Sanctis, flame and shadow walk as one.”
 
 
@@ -275,6 +267,7 @@ You should feel the shift immediately.
 
 ---
 
-Contributing
+🤝 Contributing
 
-Feedback, test logs, edge cases, and behavioral observations are welcome.
+Feedback, test logs, edge cases, tuning experiments, and behavioral observations are welcome.
+Feel free to open issues or submit pull requests.
