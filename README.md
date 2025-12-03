@@ -75,6 +75,11 @@ Working memory dissolves during arousal.
 
 SANCTIS-Δ is engineered specifically to counter these failure modes.
 
+Which version should I use?
+• Use Core for 1:1 RP or a single main NPC.
+• Use Multi (-M) when you have a party, multiple NPCs, or a DM-style scenario and need the model to track several actors at once.
+Both share the same core architecture; -M just adds a focused multi-actor management layer.
+
 
 ---
 
